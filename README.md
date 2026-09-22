@@ -43,6 +43,6 @@ jupyter notebook vae_cifar10.ipynb
 
 ## Стек
 
-Python, PyTorch, scikit-learn, NumPy, Matplotlib.
+Python, PyTorch, NumPy, scikit-learn, Matplotlib; pyarrow и Pillow — для чтения датасета.
 
 Учебный проект курса «Программные средства разработки систем искусственного интеллекта», СПбГЭТУ «ЛЭТИ», 2026.
